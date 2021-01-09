@@ -9,7 +9,7 @@ import org.springframework.context.annotation.ComponentScan;
 @EnableEurekaClient
 @SpringBootApplication
 @EntityScan({"com.micro.commons.models.entity"})
-
+//prueba
 public class SpringbootServiceProductsApplication {
 
 	public static void main(String[] args) {
